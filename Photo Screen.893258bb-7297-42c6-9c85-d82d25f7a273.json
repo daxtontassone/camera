@@ -57,6 +57,39 @@
     },
     "children": [
         {
+            "type": "Switch",
+            "translatedName": "Switch",
+            "reactType": "Switch",
+            "properties": {
+                "value": true,
+                "Visible": true,
+                "tintColor": "rgba(176, 176, 176, 100)",
+                "onTintColor": "rgba(208, 215, 231, 100)",
+                "thumbTintColor": "rgba(93, 122, 252, 100)",
+                "offThumbTintColor": "rgba(248, 249, 251, 100)",
+                "Height": 20,
+                "Width": 40,
+                "X": 167,
+                "Y": 36,
+                "RelativeX": 167,
+                "RelativeY": 36,
+                "ResizeMode": "STRETCH",
+                "ParentId": "893258bb-7297-42c6-9c85-d82d25f7a273",
+                "position": "absolute",
+                "edgeOffsets": 36,
+                "style": {
+                    "position": "absolute",
+                    "left": "38.266666666666666%",
+                    "top": "1.621064467766117%",
+                    "display": "flex"
+                }
+            },
+            "children": [],
+            "id": "281a1036-372e-4b5f-8a31-babe0af9bd95",
+            "thunkableVersion": 421,
+            "name": "talkSwitch"
+        },
+        {
             "type": "Button",
             "translatedName": "Button",
             "properties": {
